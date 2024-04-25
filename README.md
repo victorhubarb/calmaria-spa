@@ -12,7 +12,7 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page of a Spa that displays the services provided by the company. Single page, with an accordion answering some questions just below the page and also a contact modal when the Contact button is clicked below.
+Page of a Spa that displays the services provided by the company. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
@@ -26,9 +26,9 @@ Page of a Spa that displays the services provided by the company. Single page, w
 Project requirements:
  - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here]() and have fun:
+Access the project hosted [here](https://calmaria-spa-gexe.vercel.app) and have fun:
  - Project hosted on Vercel.
- - Easy implementation, [click]() and enter the project, try it out easily and quickly without needing to download the files to your computer.
+ - Easy implementation, [click](https://calmaria-spa-gexe.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your computer.
 
 Have the code on your computer:
  - Access the project source code [here](https://github.com/victorhubarb/calmaria-spa) or download the project [here](https://github.com/victorhubarb/calmaria-spa/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
