@@ -12,31 +12,40 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page of a Spa that displays the services provided by the company. 
+Calmaria Spa's landing page elegantly showcases the serene and rejuvenating services offered by the spa. Designed to provide visitors with a virtual tour of the spa's offerings, this webpage combines aesthetic appeal with functional design. The layout facilitates easy navigation across various sections, each dedicated to different aspects of the spa's services and products, enhancing user engagement and promoting spa packages.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: A page created applying some uses of WAI-ARIA aimed at accessibility, both when navigating the project with the keyboard and also when using text reading applications like NVDA.
-- `Feature 2`: Use of modals in some fields of the page, such as the 'Entrar em contato' modal, where clicking the button opens a modal window for entering contact information. After filling out the information, another modal is displayed to confirm the completion of the process.
-- `Feature 3`: Implementation of an accordion structure, where upon clicking, a new space expands providing answers to the most frequently asked questions by customers or potential customers before finalizing a purchase. The accordion allows for clicking again to close it.
-- `Feature 4`: Responsive website, designed for various screen sizes.
+- **Interactive Navigation**: The header features an interactive logo and navigation menu that not only change color on hover but are also fully accessible with keyboard navigation, utilizing WAI-ARIA roles to enhance usability for screen readers.
+- **Welcome Section with Call to Action**: Includes a welcoming text and an image, accompanied by a call-to-action button designed with WAI-ARIA attributes to ensure high visibility and accessibility. The button's color change on hover provides visual feedback for all users.
+- **Product Highlights**: Descriptive sections enhanced with WAI-ARIA labels explain the benefits and features of the spa's products, making the content more accessible to users with visual impairments.
+- **Benefits in Cards**: Each card clearly describes a benefit of the spa's services, structured with WAI-ARIA roles to ensure that the information is accessible and semantically correct in assistive technologies.
+- **Subscription Invitation**: Features an accessible form for subscribing to updates, with form fields and a submit button that utilize WAI-ARIA roles to improve form accessibility and interaction cues.
+- **Contact Form**: An accessible contact form on the right includes fields for name, email, phone, and message, all enhanced with WAI-ARIA roles and properties to ensure that form elements are navigable and recognizable by assistive technologies.
+- **Responsive Design**: The design adapts to various devices and screen sizes, and incorporates WAI-ARIA attributes to maintain accessibility standards across all devices, ensuring a seamless experience for all users.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
+### Viewing the Project Online
+Access the live version of Calmaria Spa directly on Vercel:
+- **Live Demo**: [Visit Calmaria Spa](https://calmaria-spa-gexe.vercel.app) for a quick and hassle-free way to experience the project without any setup.
 
-Access the project hosted [here](https://calmaria-spa-gexe.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://calmaria-spa-gexe.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your computer.
+### Getting the Code
+You can access the source code and run the project locally using the following methods:
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/calmaria-spa) or download the project [here](https://github.com/victorhubarb/calmaria-spa/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+#### Direct Download
+1. **Download ZIP**:
+   - [Download the latest source code](https://github.com/victorhubarb/calmaria-spa/archive/refs/heads/main.zip) from GitHub.
+   - Unzip the downloaded file to your desired location.
+   - Open the project in your preferred IDE.
 
-Clone the repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/calmaria-spa.git
- 3. Press ENTER to create your clone
+#### Clone via Git
+1. **Clone the Repository**:
+   ```bash
+   # Open your terminal
+   git clone https://github.com/victorhubarb/calmaria-spa.git
+   # Navigate to the project directory
+   cd calmaria-spa
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
