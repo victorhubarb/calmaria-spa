@@ -44,6 +44,7 @@ You can access the source code and run the project locally using the following m
    ```bash
    # Open your terminal
    git clone https://github.com/victorhubarb/calmaria-spa.git
+   
    # Navigate to the project directory
    cd calmaria-spa
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
