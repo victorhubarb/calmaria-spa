@@ -28,7 +28,7 @@
 2. Open the `index.html` file directly in the browser or use a local server to view the page.
 
 ## Usage
-The page is easy to navigate, with interactive menus and sections dedicated to the spa’s different services. Explore the packages, read about the benefits and get in touch using the integrated contact form.
+The page is easy to navigate, with interactive menus and sections dedicated to the spa’s different services. Explore the packages, read about the benefits, and get in touch using the integrated contact form.
 
 ## Features
 - **Interactive Navigation**: Menu with visual feedback when hovering over the mouse and support for keyboard navigation.
