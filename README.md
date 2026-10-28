@@ -13,7 +13,7 @@ A responsive landing page for a fictional spa, in plain HTML, CSS and JavaScript
 - **CSS split by section.** One stylesheet per page section (`container--primeiro`, `--secao`, `--cards`, `--inscricao`, `--contato`), BEM-style class names, and custom properties for colors, gradients and fonts.
 - **Image sets per screen size.** `assets/` has separate Desktop, Tablet and Mobile folders.
 
-No framework, no build step and no dependencies. A version of this page with its styles organized in Sass is in [calmaria-spa-sass](https://github.com/victorhubarb/calmaria-spa-sass).
+No framework, no build step and no dependencies.
 
 ## Run it
 
